@@ -84,7 +84,7 @@
 
 ### UI Components
 
-> Know a UI component library built for Ilha? [Submit it!](https://github.com/ilhajs/awesome-ilha/pulls)
+- [`areia`](https://areia.ilha.build/) - [Kumo](https://kumo-ui.com/)-like UI kit for Ilha based on Tailwind and data-slots.
 
 ### Utilities
 
