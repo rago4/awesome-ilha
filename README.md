@@ -96,13 +96,11 @@
 
 ### Open Source
 
-> Built something open source with Ilha? [Submit it!](https://github.com/ilhajs/awesome-ilha/pulls)
+- [Imprensa](https://imprensa.ilha.build/) - Imprensa is a reusable Ilha starter with MDX pages, searchable content, static output, and Areia UI components already wired together.
 
 ### Apps and Websites
 
 - [thojensen's Portfolio](https://thojensen.com) - Portfolio website, built with Ilha and an Axum backend.
-
-> Built an app or website with Ilha? [Submit it!](https://github.com/ilhajs/awesome-ilha/pulls)
 
 ---
 
