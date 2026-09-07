@@ -20,13 +20,12 @@
   - [Podcasts](#podcasts)
   - [Communities](#communities)
 - [Libraries and Components](#libraries-and-components)
+  - [Integrations](#integrations)
   - [Routing](#routing)
-  - [Forms](#forms)
-  - [State Management](#state-management)
+  - [Back-end Frameworks](#back-end-frameworks)
   - [UI Components](#ui-components)
   - [Utilities](#utilities)
 - [Projects Using Ilha](#projects-using-ilha)
-  - [Open Source](#open-source)
   - [Apps and Websites](#apps-and-websites)
 - [Companies Using Ilha](#companies-using-ilha)
 
@@ -70,17 +69,17 @@
 
 ## Libraries and Components
 
+### Integrations
+
+- [`@ilha/astro`](https://ilha.build/guide/astro/) - The official Astro integration for building interactive Ilha islands in Astro projects.
+
 ### Routing
 
 - [`@ilha/router`](https://github.com/ilhajs/ilha/tree/main/packages/router) - A lightweight, isomorphic router for Ilha islands. Runs in the browser with full reactivity and on the server as a synchronous HTML string renderer.
 
-### Forms
+### Back-end Frameworks
 
-- [`@ilha/form`](https://github.com/ilhajs/ilha/tree/main/packages/form) - A tiny, typed form binding library for Ilha islands. Binds a Standard Schema validator to a native `<form>` element — wires up typed submission, per-field error tracking, and dirty state using native DOM events only.
-
-### State Management
-
-- [`@ilha/store`](https://github.com/ilhajs/ilha/tree/main/packages/store) - A zustand-shaped reactive store for Ilha islands. Backed by `alien-signals` — the same engine that powers ilha core state — for shared global state that lives outside any single island.
+- [Oxide](https://oxide.build/) - A back-end framework suited for building applications with Ilha.
 
 ### UI Components
 
@@ -93,10 +92,6 @@
 ---
 
 ## Projects Using Ilha
-
-### Open Source
-
-- [Imprensa](https://imprensa.ilha.build/) - Imprensa is a reusable Ilha starter with MDX pages, searchable content, static output, and Areia UI components already wired together.
 
 ### Apps and Websites
 
